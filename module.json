@@ -1,0 +1,29 @@
+{
+  "id": "dragonbane-official-soundtrack",
+  "title": "Dragonbane - Official Soundtrack",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Patrik Påfvelsson",
+      "discord": "patrikp"
+    }
+  ],
+  "packs": [
+    {
+      "name": "official-soundtrack-by-andreas-lundstrom",
+      "label": "Official Soundtrack by Andreas Lundstrom",
+      "path": "packs/official-soundtrack-by-andreas-lundstrom",
+      "type": "Playlist"
+    }
+  ],
+  "description": "This module contains the official Dragonbane soundtrack by Andreas Lundström",
+  "url": "https://github.com/pafvel/dragonbane-official-soundtrack",
+  "readme": "https://github.com/pafvel/dragonbane-official-soundtrack/README.md",
+  "license": "LICENSE.txt",
+  "manifest": "https://github.com/pafvel/dragonbane-official-soundtrack/releases/latest/download/system.json",
+  "download": "https://github.com/pafvel/dragonbane-official-soundtrack/releases/download/latest/module.zip"
+}

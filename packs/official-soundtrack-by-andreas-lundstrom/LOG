@@ -1,0 +1,5 @@
+2025/08/06-10:37:35.539 ec1c Delete type=3 #1
+2025/08/06-10:55:42.745 e63c Level-0 table #5: started
+2025/08/06-10:55:42.746 e63c Level-0 table #5: 1793 bytes OK
+2025/08/06-10:55:42.747 e63c Delete type=0 #3
+2025/08/06-10:55:42.747 e63c Manual compaction at level-0 from '!playlists!hDMktYJjCOzRyDe3' @ 72057594037927935 : 1 .. '!playlists.sounds!hDMktYJjCOzRyDe3.z4TlEhjfXClOIZF1' @ 0 : 0; will stop at (end)
