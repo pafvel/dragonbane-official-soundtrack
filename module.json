@@ -24,6 +24,6 @@
   "url": "https://github.com/pafvel/dragonbane-official-soundtrack",
   "readme": "https://github.com/pafvel/dragonbane-official-soundtrack/README.md",
   "license": "LICENSE.txt",
-  "manifest": "https://github.com/pafvel/dragonbane-official-soundtrack/releases/latest/download/system.json",
+  "manifest": "https://github.com/pafvel/dragonbane-official-soundtrack/releases/latest/download/module.json",
   "download": "https://github.com/pafvel/dragonbane-official-soundtrack/releases/download/latest/module.zip"
 }
